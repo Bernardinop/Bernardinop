@@ -2,7 +2,7 @@
 
 🎓 Técnico Universitario en Desarrollo de Aplicaciones Empresariales  
 🎓 Estudiante de Ingeniería en Sistemas – Universidad Mariano Gálvez  
-🛰️ Encargado de Infraestructura y seguridad en ORIFLAME CentroAmerica
+🛰️ Encargado de Infraestructura y seguridad en ORIFLAME CentroAmerica  
 💻 Enfocado en monitoreo de redes, virtualización y desarrollo backend
 
 ---
